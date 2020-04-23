@@ -1,0 +1,55 @@
+.footer{
+  position: absolute;
+  top: 100%;
+  left: 45%;
+
+}
+.top{
+  position: absolute;
+  left:42%;
+  top:4%;
+  
+}
+
+.container{
+  position: absolute;
+  top:17%;
+  left: 32%;
+  background-color: grey;
+  height:550px ;
+  width: 550px;
+  border-radius: 10px;
+  color: black;
+}
+a{color: antiquewhite;
+  text-decoration: none;
+  display: block;
+  float: left;
+  margin-top: auto;
+  margin-left: 50px;
+}
+
+.container>h3{
+  position: relative;
+  left: 35%;
+}
+
+.container>p{
+  position: relative;
+  left:28%;
+}
+  form{
+  position: relative;
+  left:28%;
+  top: 2%;
+}
+input{
+  height: 28px;
+  width: 220px;
+  padding: 5px;
+
+}
+body{
+  background-color: blue;
+  color: white;
+}

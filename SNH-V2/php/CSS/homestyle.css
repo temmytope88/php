@@ -1,0 +1,36 @@
+.nav{
+  height: 50px;
+  width: auto;
+  
+}
+ .nav1{
+  display: block;
+  margin-top: 5px;
+  margin-left: 120px;
+  height: 30px;
+  width: 110px;
+  float: left;
+  color: blue;
+  border-left-width: 2px;
+  border-style: ridge;
+  text-align: center;
+  text-decoration: none;
+  line-height: 25px;
+}
+.container{
+  
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+.footer{position: absolute;
+top:92%;
+left:40%;
+text-align: center;
+}
+
+
+body{
+  background-color: rgb(226, 227, 228);
+  
+}
