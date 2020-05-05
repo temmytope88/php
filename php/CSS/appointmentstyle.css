@@ -1,0 +1,64 @@
+.footer{
+  position: absolute;
+  top: 94%;
+  left: 45%;
+
+}
+.top{
+  position: absolute;
+  left:42%;
+  top:10%;
+  
+}
+select{height: 34px;
+  width: 230px;
+  padding: 5px;
+
+}
+.container{
+  position: absolute;
+  top:20%;
+  left: 32%;
+  background-color: rgb(201, 193, 193);
+  height:430px ;
+  width: 500px;
+  border-radius: 10px;
+  color: black;
+}
+a{color: antiquewhite;
+  text-decoration: none;
+  display: block;
+  float: left;
+  margin-top: auto;
+  margin-left: 50px;
+}
+
+.container>h3{
+  position: relative;
+  left: 35%;
+}
+
+.p-1{
+  position: relative;
+  left:24%;
+}
+
+.p-2{
+  position: relative;
+  left:32%;
+}
+  form{
+  position: relative;
+  left:28%;
+  top: 2%;
+}
+input{
+  height: 28px;
+  width: 220px;
+  padding: 5px;
+
+}
+body{
+  background-color: blue;
+  color: white;
+}

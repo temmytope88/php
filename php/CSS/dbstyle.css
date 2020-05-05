@@ -1,0 +1,34 @@
+#nav{
+  height: 60px;
+  width: auto;
+  margin-bottom: 60px;
+  margin-left: 80px;
+
+}
+  
+
+.container{
+  position: relative;
+  top: 20px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+.container>p{
+  color: green;
+}
+h3{
+  font-size: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer{position: absolute;
+top:92%;
+left:40%;
+text-align: center;
+}
+
+
+body{
+  background-color: rgb(226, 227, 228);
+  
+}
